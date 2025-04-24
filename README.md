@@ -2,6 +2,9 @@
 
 ## 项目简介
 本系统专为医疗诊所设计，旨在帮助诊所高效管理每日订单任务，支持动态表单填写、多类型订单处理（如洗牙、检查等）、物料需求计算及费用生成。通过自动化流程，减少人工操作错误，提升服务效率与客户满意度。
+![image](https://github.com/user-attachments/assets/4e1fcb3b-d4b2-4622-87ab-7fa3c58cfcae)
+
+![image](https://github.com/user-attachments/assets/ab2dd421-cca8-4545-9eb8-a2571dbbe0e8)
 
 ---
 
